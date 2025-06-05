@@ -6,3 +6,4 @@ opencv-python
 pillow 
 flask 
 requests 
+gunicorn 
